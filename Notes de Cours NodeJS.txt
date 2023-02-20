@@ -1,0 +1,20 @@
+Chapitre 1 : Introduction au Cloud
+I. Définition du Cloud 
+II. Présentation de l'approche cloud native 
+
+Chapitre 2 : Les Fondamentaux de NodeJS et Express
+I. Fondamentaux de NodeJS 
+    x1. Présentation de NodeJS et Son Setup 
+    x2. Modules 
+        a. Ecrire et Executé du code JS en backend sur NodeJS
+        b. Les Variables globales usuelles 
+        c. la notion de module, exports et require
+    x3. Les Modules Prédéfinis :
+        a. os : (Operating System)
+        b. path :
+        c. fs (file System) :
+    4. npm et package.json : 
+    5. Programmation Asynchrone et Promesses (Promise, async, await) :
+    6. Protocole http et le module http :
+    7. Les Evenements en NodeJS :
+    8. Les Streams :
